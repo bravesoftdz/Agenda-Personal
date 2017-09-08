@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/02 18:12:43.000.175,=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.pas</Transaction>
+    <Transaction>2017/09/02 18:15:14.000.480,D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.pas=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\CambPassword.pas</Transaction>
+    <Transaction>2017/09/02 18:15:14.000.480,D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.dfm=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\CambPassword.dfm</Transaction>
+    <Transaction>2017/09/04 11:12:25.000.916,=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.pas</Transaction>
+    <Transaction>2017/09/04 11:15:05.000.236,D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.dfm=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\AggActividad.dfm</Transaction>
+    <Transaction>2017/09/04 11:15:05.000.231,D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.pas=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\AggActividad.pas</Transaction>
+    <Transaction>2017/09/07 21:03:34.913,=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.pas</Transaction>
+    <Transaction>2017/09/07 21:04:48.409,D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\AggRecordatorio.pas=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.pas</Transaction>
+    <Transaction>2017/09/07 21:04:48.409,D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\AggRecordatorio.dfm=D:\Users\Programación\Documents\Embarcadero\Studio\Projects\Agenda personal\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
